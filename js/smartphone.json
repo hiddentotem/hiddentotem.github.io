@@ -1,0 +1,744 @@
+{
+    "smartphone": [
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung J6 Plus",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 2.000.000",
+            "internal": "64 GB",
+            "ram": "4 GB",
+            "batre": "3300 mAh",
+            "foto": "https://d11zer3aoz69xt.cloudfront.net/media/catalog/product/cache/1/image/1200x/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung_galaxy_j6_32gb_dual_sim_black_j610fd_-_official_warranty_2_3_1_1.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung M10",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 1.600.000",
+            "internal": "64 GB / 32 GB",
+            "ram": "2 GB/ 3 GB",
+            "batre": "3400 mAh",
+            "foto": "https://www.plazakamera.com/wp-content/uploads/2019/09/Samsung-Galaxy-M10-2GB-16GB-Blue-Plazakamera-b-01.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung M20",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 2.000.000",
+            "internal": "32 GB / 64 GB",
+            "ram": "3 GB / 4 GB",
+            "batre": "5000 mAh",
+            "foto": "https://www.plazakamera.com/wp-content/uploads/2019/09/Samsung-Galaxy-M20-3GB-32GB-Black-01-600x600.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung A10s",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 1.700.000",
+            "internal": "32 GB / 64 GB",
+            "ram": "2 GB / 4 GB",
+            "batre": "3400 mAh",
+            "foto": "https://www.tishopsv.com/storage/2019/10/samsung-galaxy-10s-negro.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung A20s",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 2.300.000",
+            "internal": "32 GB / 64 GB",
+            "ram": "3 GB / 4 GB",
+            "batre": "4000 mAh",
+            "foto": "https://mxmemoxpress.com/wp-content/uploads/2019/10/A20s-1-1.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung A6 Plus",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 2.400.000",
+            "internal": "32 GB",
+            "ram": "4 GB",
+            "batre": "3500 mAh",
+            "foto": "https://mycell.co.za/wp-content/uploads/2019/02/Multisell_Samsung_A_6_Plus.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung Tab 3v",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 1.700.000",
+            "internal": "8 GB",
+            "ram": "1 GB",
+            "batre": "3600 mAh",
+            "foto": "https://www.technopat.net/vt/wp-content/uploads/2016/08/Samsung-Galaxy-Tab-3-Lite-7.0-VE.jpeg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung Tab A8",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 1.840.000",
+            "internal": "32 GB",
+            "ram": "2 GB",
+            "batre": "5100 mAh",
+            "foto": "https://www.necxus.com.ar/products_image/18362/1000x1000_1.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung A2 Core",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 1.300.000",
+            "internal": "8 GB",
+            "ram": "1 GB",
+            "batre": "2600 mAh",
+            "foto": "https://static.bmdstatic.com/pk/product/large/5ce761119d182.jpg"
+        },
+        {
+            "brand": "Oppo",
+            "tipe": "Oppo A1K",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 1.420.000",
+            "internal": "32 GB",
+            "ram": "2 GB",
+            "batre": "4000 mAh",
+            "foto": "https://images.priceoye.pk/oppo-a1k-pakistan-priceoye-mlf1o.jpg"
+        },
+        {
+            "brand": "Oppo",
+            "tipe": "Oppo A5S",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 1.750.000",
+            "internal": "32 GB",
+            "ram": "2 GB / 3 GB",
+            "batre": "4230 mAh",
+            "foto": "https://images.priceoye.pk/oppo-a5s-pakistan-priceoye-0pfq2.jpg"
+        },
+        {
+            "brand": "Oppo",
+            "tipe": "Oppo A5 2020",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 2.800.000",
+            "internal": "64 GB / 128 GB",
+            "ram": "3 GB / 4 GB",
+            "batre": "5000 mAh",
+            "foto": "https://askcell.co.id/image/cache/oppo-a5-2020-mirror-black-1_1_2_1-1200x1200.jpg"
+        },
+        {
+            "brand": "Oppo",
+            "tipe": "Oppo A3S",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 1.700.000",
+            "internal": "16 GB / 32 GB",
+            "ram": "2 GB / 3 GB",
+            "batre": "4230 mAh",
+            "foto": "https://robinsonsappliances.com.ph/media/catalog/product/cache/1/image/1200x1200/9df78eab33525d08d6e5fb8d27136e95/o/p/oppo-a3s.jpg"
+        },
+        {
+            "brand": "Redmi",
+            "tipe": "Redmi 6",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 1.400.000",
+            "internal": "32 GB / 64 GB",
+            "ram": "3 GB / 4 GB",
+            "batre": "3000 mAh",
+            "foto": "https://img.gkbcdn.com/s3/p/2018-06-25/xiaomi-redmi-6-pro-5-84-inch-3gb-32gb-smartphone-black-1571979238167.jpg"
+        },
+        {
+            "brand": "Redmi",
+            "tipe": "Redmi 7",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 1.700.000",
+            "internal": "16 GB / 32 GB / 64 GB",
+            "ram": "2 GB / 3 GB / 4 GB",
+            "batre": "4000 mAh",
+            "foto": "https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/62/EC/8a916da6-b475-4512-a636-a6d977d21bc3.jpg"
+        },
+        {
+            "brand": "Redmi",
+            "tipe": "Redmi Note 7",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 2.000.000",
+            "internal": "32 GB / 64 GB / 128 GB",
+            "ram": "3 GB / 4 GB / 6 GB",
+            "batre": "4000 mAh",
+            "foto": "https://images.priceoye.pk/xiaomi-redmi-note-7-pakistan-priceoye-nmoxo.jpg"
+        },
+        {
+            "brand": "Redmi",
+            "tipe": "Redmi Note 8",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 2.000.000",
+            "internal": "32 GB / 64 GB / 128 GB",
+            "ram": "3 GB / 4 GB / 6 GB",
+            "batre": "4000 mAh",
+            "foto": "https://img.gkbcdn.com/s3/p/2019-09-24/global-version-xiaomi-redmi-note-8-6-3-inch-4gb-64gb-smartphone-blue-1571995960150.jpg"
+        },
+        {
+            "brand": "Vivo",
+            "tipe": "Vivo Y91C",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 1.200.000",
+            "internal": "32 GB",
+            "ram": "2 GB",
+            "batre": "4030 mAh",
+            "foto": "https://s0.bukalapak.com/img/5147462329/w-1000/data.png"
+        },
+        {
+            "brand": "Vivo",
+            "tipe": "Vivo Y12",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 1.640.000",
+            "internal": "32 GB / 64 GB",
+            "ram": "3 GB",
+            "batre": "5000 mAh",
+            "foto": "https://d31wxntiwn0x96.cloudfront.net/myfpjt/productimages/7465_0.jpeg?etag=%2275eecfa95edcbd36e69a30a3aee84fc8%22"
+        },
+        {
+            "brand": "Vivo",
+            "tipe": "Vivo Y15",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 2.000.000",
+            "internal": "64 GB",
+            "ram": "3 GB / 4 GB",
+            "batre": "5000 mAh",
+            "foto": "https://satugadget.com.my/wp-content/uploads/2019/12/WhatsApp-Image-2019-12-18-at-4.37.57-PM.jpeg"
+        },
+        {
+            "brand": "Vivo",
+            "tipe": "Vivo Y17",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 2.300.000",
+            "internal": "128 GB",
+            "ram": "4 GB",
+            "batre": "5000 mAh",
+            "foto": "https://phoneplacekenya.com/wp-content/uploads/2019/11/Vivo-Y17-1200x1200.png"
+        },
+        {
+            "brand": "Vivo",
+            "tipe": "Vivo Y19",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 2.700.000",
+            "internal": "128 GB",
+            "ram": "6 GB",
+            "batre": "5000 mAh",
+            "foto": "https://www.sathya.in/Media/Default/Thumbs/0036/0036844-vivo-y19-spring-white-4gb-ram-128gb-storage.jpg"
+        },
+        {
+            "brand": "Realme",
+            "tipe": "Realme C2",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 1.400.000",
+            "internal": "16 GB / 32 GB",
+            "ram": "2 GB / 3 GB",
+            "batre": "4000 mAh",
+            "foto": "https://static.digit.in/default/thumb_133081_default_td_480x480.jpeg?tr=w-1200"
+        },
+        {
+            "brand": "Realme",
+            "tipe": "Realme 2 Pro",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 3.700.000",
+            "internal": "64 GB / 128 GB",
+            "ram": "4 GB / 6 GB / 8 GB",
+            "batre": "3500 mAh",
+            "foto": "https://btscellsukoharjo.com/wp-content/uploads/2019/09/realme-2-pro.png"
+        },
+        {
+            "brand": "Realme",
+            "tipe": "Realme 5",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 2.500.000",
+            "internal": "32 GB / 64 GB / 128 GB",
+            "ram": "3 GB / 4 GB",
+            "batre": "5000 mAh",
+            "foto": "https://images.priceoye.pk/realme-5-pakistan-priceoye-ymjkf.jpg"
+        },
+        {
+            "brand": "Nokia",
+            "tipe": "Nokia N5",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 1.500.000",
+            "internal": "16 GB",
+            "ram": "2 GB / 3 GB",
+            "batre": "3000 mAh",
+            "foto": "https://online.hellosmart.in/wp-content/uploads/2018/10/n5.png"
+        },
+        {
+            "brand": "Nokia",
+            "tipe": "Nokia N6",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 2.000.000",
+            "internal": "32 GB / 64 GB",
+            "ram": "3 GB / 4 GB",
+            "batre": "3000 mAh",
+            "foto": "https://i.pinimg.com/originals/53/a2/b8/53a2b8e221229953fcadb2b6eebdc31b.jpg"
+        },
+        {
+            "brand": "Asus",
+            "tipe": "Asus Max M2",
+            "harga": "Rp. 1.000.000",
+            "hargaAsli": "Rp. 1.700.000",
+            "internal": "32 GB / 64 GB",
+            "ram": "3 GB / 4 GB",
+            "batre": "4000 mAh",
+            "foto": "https://www.jakartanotebook.com/images/products/4/2/43585/2/asus-zenfone-max-m2-3gb-32gb-zb633kl-black-12.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung A51",
+            "harga": "Rp. 1.300.000",
+            "hargaAsli": "Rp. 4.000.000",
+            "internal": "128 GB",
+            "ram": "6 GB",
+            "batre": "4000 mAh",
+            "foto": "https://smhttp-ssl-73217.nexcesscdn.net/pub/media/catalog/product/cache/image/beff4985b56e3afdbeabfc89641a4582/s/a/samsung-a51---2-pink_-min.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung A50",
+            "harga": "Rp. 1.300.000",
+            "hargaAsli": "Rp. 3.000.000",
+            "internal": "64 GB / 128 GB",
+            "ram": "4 GB / 6 GB",
+            "batre": "4000 mAh",
+            "foto": "https://cdn.elkor.lv/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/s/m/sm-a505fzosseb_samsung_2.png.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung A50S",
+            "harga": "Rp. 1.300.000",
+            "hargaAsli": "Rp. 3.700.000",
+            "internal": "64 GB / 128 GB",
+            "ram": "4 GB / 6 GB",
+            "batre": "4000 mAh",
+            "foto": "https://s0.bukalapak.com/img/08244936831/w-1000/data.png"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung A30S",
+            "harga": "Rp. 1.300.000",
+            "hargaAsli": "Rp. 2.700.000",
+            "internal": "32 GB / 64 GB / 128 GB",
+            "ram": "3 GB / 4 GB",
+            "batre": "4000 mAh",
+            "foto": "https://smhttp-ssl-73217.nexcesscdn.net/pub/media/catalog/product/cache/image/beff4985b56e3afdbeabfc89641a4582/z/g/zg814-1-min.jpg"
+        },
+        {
+            "brand": "Redmi",
+            "tipe": "Redmi Note 8 Pro",
+            "harga": "Rp. 1.300.000",
+            "hargaAsli": "Rp. 3.400.000",
+            "internal": "64 GB / 128 GB",
+            "ram": "8 GB / 6 GB",
+            "batre": "4500 mAh",
+            "foto": "https://cf.shopee.co.id/file/90b1c3c89395c92d1ca803f742f0d10d"
+        },
+        {
+            "brand": "Redmi",
+            "tipe": "Redmi Mi 8 Lite",
+            "harga": "Rp. 1.300.000",
+            "hargaAsli": "Rp. 3.500.000",
+            "internal": "64 GB / 128 GB",
+            "ram": "4 GB / 6 GB",
+            "batre": "3350 mAh",
+            "foto": "https://www.giztop.com/media/catalog/product/cache/8/image/946x946/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi_mi_8_lite-2.jpg"
+        },
+        {
+            "brand": "Vivo",
+            "tipe": "Vivo Z1 Pro",
+            "harga": "Rp. 1.300.000",
+            "hargaAsli": "Rp. 2.900.000",
+            "internal": "64 GB / 128 GB",
+            "ram": "4 GB / 6 GB",
+            "batre": "5000 mAh",
+            "foto": "https://images-na.ssl-images-amazon.com/images/I/61hd%2BlyS1WL._SL1200_.jpg"
+        },
+        {
+            "brand": "Vivo",
+            "tipe": "Vivo S1 Pro",
+            "harga": "Rp. 1.300.000",
+            "hargaAsli": "Rp. 3.200.000",
+            "internal": "128 GB",
+            "ram": "8 GB",
+            "batre": "4500 mAh",
+            "foto": "https://www.reliancedigital.in/medias/Vivo-S1-Pro-Wht-8-128-48-8-2-2MP-32MP-491615617-i-5-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w5OTc4OXxpbWFnZS9qcGVnfGltYWdlcy9oNzkvaGE4LzkyNDAwMTc1MzUwMDYuanBnfGM3N2IyZjVjM2VlZjVkZGM1MmQxYThiZjBmODIwMGU1YzRiMjQ2MzU4NGYwZmVmYjAxMGIzMzYyNDUzMzcwODg"
+        },
+        {
+            "brand": "Vivo",
+            "tipe": "Vivo V15",
+            "harga": "Rp. 1.300.000",
+            "hargaAsli": "Rp. 2.900.000",
+            "internal": "64 GB",
+            "ram": "6 GB",
+            "batre": "4000 mAh",
+            "foto": "https://i.imgur.com/kwgGMZ6.jpg"
+        },
+        {
+            "brand": "Oppo",
+            "tipe": "Oppo F11",
+            "harga": "Rp. 1.300.000",
+            "hargaAsli": "Rp. 2.800.000",
+            "internal": "64 GB / 128 GB",
+            "ram": "4 GB / 6 GB",
+            "batre": "4020 mAh",
+            "foto": "https://phoneplacekenya.com/wp-content/uploads/2019/04/Oppo-F11-a-1200x1200.png"
+        },
+        {
+            "brand": "Oppo",
+            "tipe": "Oppo K3",
+            "harga": "Rp. 1.300.000",
+            "hargaAsli": "Rp. 3.000.000",
+            "internal": "64 GB / 128 GB / 256 GB",
+            "ram": "6 GB / 8 GB",
+            "batre": "3765 mAh",
+            "foto": "https://imgaz3.staticbg.com/thumb/large/oaupload/ser1/banggood/images/17/BF/f83f8b39-d851-4a04-8feb-4bd60efc0c16.jpg"
+        },
+        {
+            "brand": "Realme",
+            "tipe": "Realme 5 Pro",
+            "harga": "Rp. 1.300.000",
+            "hargaAsli": "Rp. 2.500.000",
+            "internal": "128 GB",
+            "ram": "8 GB / 4 GB",
+            "batre": "4035 mAh",
+            "foto": "https://img.gkbcdn.com/s3/p/2019-11-15/global-version-realme-5-pro-6-3-inch-8gb-128gb-smartphone-green-1574132779888.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung A70",
+            "harga": "Rp. 2.300.000",
+            "hargaAsli": "Rp. 4.000.000",
+            "internal": "128 GB",
+            "ram": "6 GB / 8 GB",
+            "batre": "4500 mAh",
+            "foto": "https://i.imgur.com/Ca7L2oh.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung S8 Plus",
+            "harga": "Rp. 2.300.000",
+            "hargaAsli": "Rp. 6.600.000",
+            "internal": "64 GB / 128 GB",
+            "ram": "4 GB / 6 GB",
+            "batre": "3500 mAh",
+            "foto": "https://cdn.movertix.com/media/catalog/product/cache/image/1200x/s/a/samsung-galaxy-s8-plus-gris-orqudea-8806088738437.jpg"
+        },
+        {
+            "brand": "Oppo",
+            "tipe": "Oppo A9 2020",
+            "harga": "Rp. 2.300.000",
+            "hargaAsli": "Rp. 3.300.000",
+            "internal": "128 GB",
+            "ram": "8 GB",
+            "batre": "5000 mAh",
+            "foto": "https://cf.shopee.co.id/file/e76304cb60488f54ccf7d57e003a72d7"
+        },
+        {
+            "brand": "Oppo",
+            "tipe": "Oppo F11 Pro",
+            "harga": "Rp. 2.300.000",
+            "hargaAsli": "Rp. 4.200.000",
+            "internal": "64 GB / 128 GB",
+            "ram": "6 GB",
+            "batre": "4000 mAh",
+            "foto": "https://i.imgur.com/1ZuSBkB.jpg"
+        },
+        {
+            "brand": "Oppo",
+            "tipe": "Oppo Reno 2F",
+            "harga": "Rp. 2.300.000",
+            "hargaAsli": "Rp. 7.000.000",
+            "internal": "128 GB / 256 GB",
+            "ram": "8 GB",
+            "batre": "4000 mAh",
+            "foto": "https://images.priceoye.pk/oppo-reno-2f-pakistan-priceoye-dponz.jpg"
+        },
+        {
+            "brand": "Realme",
+            "tipe": "Realme XT",
+            "harga": "Rp. 2.300.000",
+            "hargaAsli": "Rp. 3.200.000",
+            "internal": "64 GB / 128 GB",
+            "ram": "4 GB / 6 GB / 8 GB",
+            "batre": "4000 mAh",
+            "foto": "https://i.imgur.com/4CdaSPU.jpg"
+        },
+        {
+            "brand": "Vivo",
+            "tipe": "Vivo V15 Pro",
+            "harga": "Rp. 2.300.000",
+            "hargaAsli": "Rp. 3.800.000",
+            "internal": "128 GB",
+            "ram": "6 GB",
+            "batre": "3700 mAh",
+            "foto": "https://www.cw2u.com.my/wp-content/uploads/2019/02/VIVO-V15-PRO-Image-1.jpg"
+        },
+        {
+            "brand": "Redmi",
+            "tipe": "Xiaomi Pocophone F1",
+            "harga": "Rp. 2.300.000",
+            "hargaAsli": "Rp. 4.000.000",
+            "internal": "64 GB / 128 GB / 256 GB",
+            "ram": "8 GB / 6 GB",
+            "batre": "4000 mAh",
+            "foto": "https://img.gkbcdn.com/s3/p/2018-08-29/global-version-xiaomi-poco-f1-6gb-128gb-smartphone-graphite-black-1571988902125.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung A71",
+            "harga": "Rp. 2.500.000",
+            "hargaAsli": "Rp. 6.000.000",
+            "internal": "128 GB",
+            "ram": "6 GB / 8 GB",
+            "batre": "4500 mAh",
+            "foto": "https://i.imgur.com/uHRq5gB.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung A80",
+            "harga": "Rp. 3.900.000",
+            "hargaAsli": "Rp. 8.000.000",
+            "internal": "128 GB",
+            "ram": "8 GB",
+            "batre": "3700 mAh",
+            "foto": "https://cdn.webshopapp.com/shops/276845/files/294243396/samsung-galaxy-a80-dskinz-back-skin.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung Note 8",
+            "harga": "Rp. 3.900.000",
+            "hargaAsli": "Rp. 7.400.000",
+            "internal": "64 GB, 128 GB, 256 GB",
+            "ram": "6 GB",
+            "batre": "3300 mAh",
+            "foto": "https://plintech.com/wp-content/uploads/2019/04/samsung-galaxy-note-8-dual-sim-azul-n950f-8806088957517.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung Tab S5e",
+            "harga": "Rp. 3.900.000",
+            "hargaAsli": "Rp. 6.750.000",
+            "internal": "64 GB / 128 GB",
+            "ram": "6 GB / 4 GB",
+            "batre": "7040 mAh",
+            "foto": "https://s7d6.scene7.com/is/image/bjs/223672?$bjs-Zoom$"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung Tab S3",
+            "harga": "Rp. 3.900.000",
+            "hargaAsli": "Rp. 7.000.000",
+            "internal": "32 GB",
+            "ram": "4 GB",
+            "batre": "6000 mAh",
+            "foto": "https://i.imgur.com/1B1nysn.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung Tab S4",
+            "harga": "Rp. 3.900.000",
+            "hargaAsli": "Rp. 7.700.000",
+            "internal": "64 GB / 256 GB",
+            "ram": "4 GB",
+            "batre": "7300 mAh",
+            "foto": "https://i.imgur.com/mMWBDyZ.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung S9",
+            "harga": "Rp. 3.900.000",
+            "hargaAsli": "Rp. 9.000.000",
+            "internal": "64 GB / 256 GB",
+            "ram": "4 GB / 6 GB",
+            "batre": "3000 mAh",
+            "foto": "https://cdn.shoplightspeed.com/shops/613622/files/7784799/image.jpg"
+        },
+        {
+            "brand": "Oppo",
+            "tipe": "Oppo Reno 2",
+            "harga": "Rp. 3.900.000",
+            "hargaAsli": "Rp. 7.100.000",
+            "internal": "128 GB / 256 GB",
+            "ram": "8 GB",
+            "batre": "4000 mAh",
+            "foto": "https://cdn.eglobalcentraluk.com/images/detailed/85/oppo-reno-2-8gb-256gb-dual-sim-sunset-pink.jpg"
+        },
+        {
+            "brand": "Asus",
+            "tipe": "Asus Zenfone 6",
+            "harga": "Rp. 3.900.000",
+            "hargaAsli": "Rp. 7.500.000",
+            "internal": "64 GB / 128 GB / 256 GB",
+            "ram": "6 GB / 8 GB",
+            "batre": "5000 mAh",
+            "foto": "https://i.imgur.com/6XY3XtH.jpg"
+        },
+        {
+            "brand": "Redmi",
+            "tipe": "Redmi Black Shark 2",
+            "harga": "Rp. 3.900.000",
+            "hargaAsli": "Rp. 8.200.000",
+            "internal": "128 GB / 258 GB",
+            "ram": "8 GB / 12 GB",
+            "batre": "4000 mAh",
+            "foto": "https://img.gkbcdn.com/s3/p/2019-07-31/xiaomi-black-shark-2-pro-gaming-smartphone-12gb-128gb-gray-1571994862367.jpg"
+        },
+        {
+            "brand": "Redmi",
+            "tipe": "Xiaomi Mi Note 10",
+            "harga": "Rp. 3.900.000",
+            "hargaAsli": "Rp. 6.550.000",
+            "internal": "128 GB",
+            "ram": "6 GB",
+            "batre": "5260 mAh",
+            "foto": "https://img.gkbcdn.com/s3/p/2019-11-08/xiaomi-mi-note-10-6-47-inch-6gb-128gb-smartphone-green-1574132809933.jpg"
+        },
+        {
+            "brand": "Realme",
+            "tipe": "Realme X2 Pro",
+            "harga": "Rp. 3.900.000",
+            "hargaAsli": "Rp. 7.200.000",
+            "internal": "64 GB / 128 GB / 256 GB",
+            "ram": "6 GB / 8 GB / 12 GB",
+            "batre": "4000 mAh",
+            "foto": "https://i.imgur.com/gAlQkPj.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung S10",
+            "harga": "Rp. 4.300.000",
+            "hargaAsli": "Rp. 9.800.000",
+            "internal": "128 GB / 512 GB",
+            "ram": "8 GB",
+            "batre": "3400 mAh",
+            "foto": "https://images.priceoye.pk/samsung-galaxy-s10-plus-pakistan-priceoye-z4p9f.jpg"
+        },
+        {
+            "brand": "Redmi",
+            "tipe": "Redmi Black Shark 2 Pro",
+            "harga": "Rp. 4.300.000",
+            "hargaAsli": "Rp. 9.000.000",
+            "internal": "128 GB / 256 GB",
+            "ram": "8 GB / 12 GB",
+            "batre": "4000 mAh",
+            "foto": "https://www.giztop.com/media/catalog/product/cache/8/image/946x946/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi_black_shark_2_pro-3.jpg"
+        },
+        {
+            "brand": "Oppo",
+            "tipe": "Oppo Reno 10x Zoom",
+            "harga": "Rp. 4.300.000",
+            "hargaAsli": "Rp. 10.500.000",
+            "internal": "128 GB / 256 GB",
+            "ram": "6 GB / 8 GB",
+            "batre": "4065 mAh",
+            "foto": "https://i.imgur.com/NsmZfYg.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung S10 Plus",
+            "harga": "Rp. 4.800.000",
+            "hargaAsli": "Rp. 11.000.000",
+            "internal": "128 GB / 512 GB / 1 TB",
+            "ram": "6 GB / 8 GB / 12 GB",
+            "batre": "4100 mAh",
+            "foto": "https://i.imgur.com/qC4mNV2.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung Note 9",
+            "harga": "Rp. 4.800.000",
+            "hargaAsli": "Rp. 11.200.000",
+            "internal": "128 GB / 512 GB",
+            "ram": "6 GB / 8 GB",
+            "batre": "4000 mAh",
+            "foto": "https://i.imgur.com/ABw0rA8.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung Tab S6",
+            "harga": "Rp. 4.800.000",
+            "hargaAsli": "Rp. 10.900.000",
+            "internal": "128 GB / 256 GB",
+            "ram": "6 GB / 8 GB",
+            "batre": "7040 mAh",
+            "foto": "https://i.imgur.com/PVuIkXf.jpg"
+        },
+        {
+            "brand": "Asus",
+            "tipe": "Asus ROG Phone 2",
+            "harga": "Rp. 4.800.000",
+            "hargaAsli": "Rp. 8.500.000",
+            "internal": "128 GB / 512 GB / 1 TB",
+            "ram": "8 GB / 12 GB",
+            "batre": "6000 mAh",
+            "foto": "https://askcell.co.id/image/cache/gambar/produk/Asus/dgpy62g28fvbmkcy_setting_000_1_90_end_500-1200x1200.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "tipe": "Samsung Fold",
+            "harga": "Rp. 13.300.000",
+            "hargaAsli": "Rp. 31.200.000",
+            "internal": "512 GB",
+            "ram": "12 GB",
+            "batre": "4380 mAh Dual Battery",
+            "foto": "https://i.imgur.com/1Ndfzll.jpg"
+        },
+        {
+            "brand": "Iphone",
+            "tipe": "Iphone 11",
+            "harga": "Rp. 5.800.000",
+            "hargaAsli": "Rp. 15.500.000",
+            "internal": "64 GB / 128 GB / 256 GB",
+            "ram": "Apa itu RAM? (4 GB)",
+            "batre": "3500 mAh",
+            "foto": "https://images-na.ssl-images-amazon.com/images/I/71kZfQA-Y7L._SL1500_.jpg"
+        },
+        {
+            "brand": "Iphone",
+            "tipe": "Iphone XR",
+            "harga": "Rp. 5.800.000",
+            "hargaAsli": "Rp. 13.500.000",
+            "internal": "64 GB / 128 GB / 256 GB",
+            "ram": "3 GB",
+            "batre": "aPa iTu BatTeRy?",
+            "foto": "https://i.imgur.com/fhpY2hp.jpg"
+        },
+        {
+            "brand": "Iphone",
+            "tipe": "Iphone XS",
+            "harga": "Rp. 5.800.000",
+            "hargaAsli": "Rp. 13.500.000",
+            "internal": "64 GB / 256 GB / 512 GB",
+            "ram": "4 GB",
+            "batre": "aPa iTu BatTeRy?",
+            "foto": "https://i.imgur.com/38pTwD8.jpg"
+        },
+        {
+            "brand": "Iphone",
+            "tipe": "Iphone XS Max",
+            "harga": "Rp. 7.800.000",
+            "hargaAsli": "Rp. 13.000.000",
+            "internal": "64 GB / 256 GB / 512 GB",
+            "ram": "4 GB",
+            "batre": "aPa iTu BatTeRy?",
+            "foto": "https://i.imgur.com/38pTwD8.jpg"
+        },
+        {
+            "brand": "Iphone",
+            "tipe": "Iphone 11 Pro",
+            "harga": "Rp. 7.900.000",
+            "hargaAsli": "Rp. 19.100.000",
+            "internal": "64 GB / 256 GB / 512 GB",
+            "ram": "4 GB",
+            "batre": "aPa iTu BatTeRy?",
+            "foto": "https://i.imgur.com/ftmSq9G.jpg"
+        },
+        {
+            "brand": "Iphone",
+            "tipe": "Iphone 11 Pro Max",
+            "harga": "Rp. 9.300.000",
+            "hargaAsli": "Rp. 20.500.000",
+            "internal": "64 GB / 256 GB / 512 GB",
+            "ram": "4 GB",
+            "batre": "aPa iTu BatTeRy?",
+            "foto": "https://i.imgur.com/ftmSq9G.jpg"
+        }
+    ]
+}
