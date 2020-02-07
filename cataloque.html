@@ -7,12 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
     <!-- <link rel="stylesheet" href="css/bootstrap.min.css"> -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link
-        href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Viga&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://hiddentotem.github.io/css/style.css">
 
 
@@ -20,41 +19,103 @@
 </head>
 
 <body id="page-top">
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <!-- Navbar Start -->
+    <nav class="navbar navbar-expand-lg navbar-light ">
         <div class="container">
-            <a class="navbar-brand" href="#">Cataloque</a>
+            <a class="navbar-brand" href="index.html">hiddenTotem</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
                 aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                <div class="navbar-nav ml-3">
-                    <a class="nav-item nav-link active" href="#">All Brand</a>
-                    <a class="nav-item nav-link" href="#">Samsung</a>
-                    <a class="nav-item nav-link" href="#">Asus</a>
-                    <a class="nav-item nav-link" href="#">Oppo</a>
-                    <a class="nav-item nav-link" href="#">Vivo</a>
-                    <a class="nav-item nav-link" href="#">Redmi</a>
-                    <a class="nav-item nav-link" href="#">Realme</a>
-                    <a class="nav-item nav-link" href="#">Iphone</a>
+                <div class="navbar-nav ml-auto">
+                    <a class="nav-item nav-link active" href="index.html">
+                        Home <span class="sr-only">(current)</span>
+                    </a>
+                    <a class="nav-item nav-link" href="cataloque.html">Cataloque</a>
+                    <a class="nav-item nav-link" href="#">FAQ</a>
+                    <a class="nav-item nav-link" href="#">About</a>
+                    <a class="nav-item btn btn-primary tombol" href="https://wa.me/6282385594718?text=Hi%20aq%20mo%20mesan%20hp%20dong" target="_blank">Order Sekarang</a>
                 </div>
             </div>
         </div>
     </nav>
+    <!-- Navbar End -->
+
+    <!-- Jumbotron Start -->
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container">
+            <h1 class="display-4">Tuh liat aja <span>beneran</span> semurah itu kan<br>tunjuk aja <span>mana</span> yang kamu mau</h1>
+            <a class="btn btn-primary tombol" href="https://wa.me/6282385594718?text=Hi%20aq%20mo%20mesan%20hp%20dong">Order Sekarang</a>
+        </div>
+    </div>
+    <!-- Jumbotron End -->
+
+    <!-- Container Start -->
     <div class="container">
-        <div class="row mt-3">
+
+        <!-- Info Panel Start -->
+        <div class="row justify-content-center">
+            <div class="col-10 info-panel">
+                <div class="row">
+                    <div class="col-lg mb-3">
+                        <div class="dropdown switchbrand">
+                            <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Pilih Brand
+                            </button>
+                            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                <a class="dropdown-item brand-item" href="#">All Brand</a>
+                                <a class="dropdown-item brand-item" href="#">Samsung</a>
+                                <a class="dropdown-item brand-item" href="#">Asus</a>
+                                <a class="dropdown-item brand-item" href="#">Oppo</a>
+                                <a class="dropdown-item brand-item" href="#">Vivo</a>
+                                <a class="dropdown-item brand-item" href="#">Redmi</a>
+                                <a class="dropdown-item brand-item" href="#">Realme</a>
+                                <a class="dropdown-item brand-item" href="#">Iphone</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg">
+                        <div class="input-group">
+                            <input type="text" class="form-control" id="keyword" placeholder="Mau cari sesuatu?">
+                            <div class="input-group-append">
+                                <button class="btn btn-primary" type="button" id="button-addon2">Search</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Info Panel End -->
+
+        <!-- Isi Catalog -->
+        <div class="row mt-5">
             <div class="col">
-                <h1>All Brand</h1>
+                <h1 class="brand-tag">All Brand</h1>
             </div>
         </div>
         <div class="row" id="daftarMenu">
+            <!-- Append by Js -->
         </div>
-    </div>
+        <!-- Isi Catalog End -->
 
-    <!-- Scroll to Top Button-->
-    <a class="scroll-to-top rounded" href="#page-top">
-        <i class="fas fa-angle-up"></i>
-    </a>
+        <!-- Footer Start -->
+        <div class="row footer">
+            <div class="col text-center">
+                <p>2020 &copy; All Rights Reserved by Rangga D. Permadi</p>
+            </div>
+        </div>
+        <!-- Footer End -->
+
+        <!-- Scroll to Top Button-->
+        <a class="scroll-to-top rounded" href="#page-top">
+            <i class="fas fa-angle-up"></i>
+        </a>
+        <!-- Scroll to Top Button-->
+
+    </div>
+    <!-- Container End -->
 
     <!-- Modal -->
     <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
@@ -68,24 +129,21 @@
                     </button>
                 </div>
                 <div class="modal-body">
-
+                    <!-- Append by js -->
                 </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <div class="modal-footer btncontent">
+                    <!-- Append by js -->
                 </div>
             </div>
         </div>
     </div>
+    <!-- Modal -->
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
-        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
-        crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
-        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
-        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
     <script src="https://kit.fontawesome.com/b49f98b2fb.js" crossorigin="anonymous"></script>
     <script src="https://hiddentotem.github.io/js/script.js"></script>
