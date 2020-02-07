@@ -60,8 +60,12 @@ $('.brand-item').on('click', function () {
 $('#keyword').on("keyup", function () {
     let keyword = $(this).val();
 
+    // Simpan isi brand yang di klik ke dalam h1
+    $('.brand-tag').html(keyword);
+    
     if (keyword === '') {
         $('#daftarMenu').html('');
+        $('.brand-tag').html('All Brand');
 
         tampilkanSemuaMenu();
 
