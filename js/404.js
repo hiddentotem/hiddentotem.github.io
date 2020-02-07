@@ -23,3 +23,7 @@ document.addEventListener('mousemove', event => {
 document.addEventListener('mouseleave', event => {
   oh.style.animation = 'floating 3s linear infinite';
 });
+
+$(document).on('click', '.button', function () {
+    window.location.replace("index.html");
+});
