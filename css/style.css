@@ -102,6 +102,9 @@
     font-weight: 200;
 }
 
+.switchbrand button, .switchbrand .dropdown-menu {
+  width: 100% !important;
+}
 
 /* Working Space */
 .workingspace {
