@@ -4,10 +4,14 @@ function tampilkanSemuaMenu() {
 
         // simpan objectnya kedalam menu
         let smartphone = hasil.smartphone;
+        let macbook = hasil.macbook;
 
         // foreach smartphone
         $.each(smartphone, function (i, data) {
             $('#daftarMenu').append('<div class="col-md-4"><div class="card mb-3"><img src="' + data.foto + '" class="img-thumbnail"><div class="card-body"><h5 class="card-title">' + data.tipe + '</h5><h6 class="card-title">' + data.harga + ',-</h6><p class="card-text">Harga asli <strike class="text-danger h6">' + data.hargaAsli + ',-</strike></p><a href="#" class="btn btn-primary tombolDetail" data-tipe="' + data.tipe + '" data-toggle="modal" data-target="#exampleModal">Detail</a></div></div></div>');
+        });
+        $.each(macbook, function (i, data) {
+            $('#daftarMenu').append('<div class="col-md-4"><div class="card mb-3"><img src="' + data.foto + '" class="img-thumbnail"><div class="card-body"><h5 class="card-title text-truncate">' + data.tipe + '</h5><h6 class="card-title">' + data.harga + ',-</h6><p class="card-text">Harga asli <strike class="text-danger h6">' + data.hargaAsli + ',-</strike></p><a href="#" class="btn btn-primary tombolDetail" data-tipe="' + data.tipe + '" data-toggle="modal" data-target="#exampleModal">Detail</a></div></div></div>');
         });
     });
 }
@@ -39,6 +43,8 @@ $('.brand-item').on('click', function () {
 
         // simpan objectnya kedalam menu, dan siapkan content untuk isi menunya
         let smartphone = hasil.smartphone;
+        let macbook = hasil.macbook;
+
         let content = '';
 
         // foreach smartphonenya
@@ -47,6 +53,15 @@ $('.brand-item').on('click', function () {
             if (data.brand == kategori) {
                 // maka contentnya akan berisi smartphone berdasarkan kategorinya aja
                 content += '<div class="col-md-4"><div class="card mb-3"><img src="' + data.foto + '" class="img-thumbnail"><div class="card-body"><h5 class="card-title">' + data.tipe + '</h5><h6 class="card-title">' + data.harga + ',-</h6><p class="card-text">Harga asli <strike class="text-danger">' + data.hargaAsli + ',-</strike></p><a href="#" class="btn btn-primary tombolDetail" data-tipe="' + data.tipe + '" data-toggle="modal" data-target="#exampleModal">Detail</a></div></div></div>';
+            }
+        });
+
+        // foreach smartphonenya
+        $.each(macbook, function (i, data) {
+            // Jika smartphone kategorinya == kategori yang di klik
+            if (data.brand == kategori) {
+                // maka contentnya akan berisi smartphone berdasarkan kategorinya aja
+                content += '<div class="col-md-4"><div class="card mb-3"><img src="' + data.foto + '" class="img-thumbnail"><div class="card-body"><h5 class="card-title text-truncate">' + data.tipe + '</h5><h6 class="card-title">' + data.harga + ',-</h6><p class="card-text">Harga asli <strike class="text-danger">' + data.hargaAsli + ',-</strike></p><a href="#" class="btn btn-primary tombolDetail" data-tipe="' + data.tipe + '" data-toggle="modal" data-target="#exampleModal">Detail</a></div></div></div>';
             }
         });
 
@@ -62,12 +77,13 @@ $('#keyword').on("keyup", function () {
 
     // Simpan isi brand yang di klik ke dalam h1
     $('.brand-tag').html(keyword);
-    
+
     if (keyword === '') {
         $('#daftarMenu').html('');
         $('.brand-tag').html('All Brand');
 
         tampilkanSemuaMenu();
+
 
         return;
     }
@@ -76,6 +92,8 @@ $('#keyword').on("keyup", function () {
     $.getJSON('js/smartphone.json', function (hasil) {
         let regex = new RegExp(keyword, "i");
         let smartphone = hasil.smartphone;
+        let macbook = hasil.macbook;
+
         let content = '';
 
         $.each(smartphone, function (i, data) {
@@ -84,6 +102,15 @@ $('#keyword').on("keyup", function () {
             if ((data.tipe.search(regex) != -1) || (data.harga.search(regex) != -1) || (data.ram.search(regex) != -1) || (data.batre.search(regex) != -1)) {
                 // maka contentnya akan berisi smartphone berdasarkan kategorinya aja
                 content += '<div class="col-md-4"><div class="card mb-3"><img src="' + data.foto + '" class="img-thumbnail"><div class="card-body"><h5 class="card-title">' + data.tipe + '</h5><h6 class="card-title">' + data.harga + ',-</h6><p class="card-text">Harga asli <strike class="text-danger">' + data.hargaAsli + ',-</strike></p><a href="#" class="btn btn-primary tombolDetail" data-tipe="' + data.tipe + '" data-toggle="modal" data-target="#exampleModal">Detail</a></div></div></div>';
+            }
+        });
+
+        $.each(macbook, function (i, data) {
+
+            // Jika smartphone kategorinya == kategori yang di klik
+            if ((data.tipe.search(regex) != -1) || (data.harga.search(regex) != -1) || (data.ram.search(regex) != -1) || (data.internal.search(regex) != -1) || (data.layar.search(regex) != -1)) {
+                // maka contentnya akan berisi smartphone berdasarkan kategorinya aja
+                content += '<div class="col-md-4"><div class="card mb-3"><img src="' + data.foto + '" class="img-thumbnail"><div class="card-body"><h5 class="card-title text-truncate">' + data.tipe + '</h5><h6 class="card-title">' + data.harga + ',-</h6><p class="card-text">Harga asli <strike class="text-danger">' + data.hargaAsli + ',-</strike></p><a href="#" class="btn btn-primary tombolDetail" data-tipe="' + data.tipe + '" data-toggle="modal" data-target="#exampleModal">Detail</a></div></div></div>';
             }
         });
 
@@ -100,6 +127,8 @@ $(document).on('click', '.tombolDetail', function () {
 
     $.getJSON('js/smartphone.json', function (hasil) {
         let smartphone = hasil.smartphone;
+        let macbook = hasil.macbook;
+
         let content = '';
         let btnContent = '';
 
@@ -141,6 +170,52 @@ $(document).on('click', '.tombolDetail', function () {
 
                         <div class="alert alert-primary mt-3 font-weight-light" role="alert">
                             Note : Kamu tidak bisa request memory internal, RAM, dan warna smartphone. Kamu akan dapat memory internal, RAM, dan warna smartphone secara random.
+                        </div>
+                    </div>
+                </div>`;
+
+                btnContent += `<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button><a href="https://wa.me/6282385594718?text=Hi%20aq%20mo%20mesan%20` + data.tipe + `%20dong" target="_blank" class=" btn btn-primary">Mau ini</a>`;
+            }
+        });
+
+        $.each(macbook, function (i, data) {
+
+            if (data.tipe == tipe) {
+
+                content += `<div class="row">
+                    <div class="col-lg-6">
+                        <figure class="figure">
+                            <img src="` + data.foto + `" class="figure-img img-fluid rounded" alt="...">
+                        </figure>
+                    </div>
+                    <div class="col-lg-6">
+
+                        <h3 class="h3 mb-3 mt-3">` + data.tipe + `</h3>
+                        <table>
+                            <tr>
+                                <td width="100">Harga</td>
+                                <td> : ` + data.harga + `</td>
+                            </tr>
+                            <tr>
+                                <td>Harga Asli</td>
+                                <td> : ` + data.hargaAsli + `</td>
+                            </tr>
+                            <tr>
+                                <td>Internal</td>
+                                <td> : ` + data.internal + `</td>
+                            </tr>
+                            <tr>
+                                <td>RAM</td>
+                                <td> : ` + data.ram + `</td>
+                            </tr>
+                            <tr>
+                                <td>Layar</td>
+                                <td> : ` + data.layar + `</td>
+                            </tr>
+                        </table>
+
+                        <div class="alert alert-primary mt-3 font-weight-light" role="alert">
+                            Note : Kamu tidak bisa request memory internal, RAM, dan warna macbook. Kamu akan dapat memory internal, RAM, dan warna macbook secara random.
                         </div>
                     </div>
                 </div>`;
