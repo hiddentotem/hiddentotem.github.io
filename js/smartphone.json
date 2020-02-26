@@ -10,20 +10,11 @@
       "batre": "3300 mAh",
       "foto": "https://i.imgur.com/gLyQPdE.jpg"
     },
-    {
-      "brand": "Samsung",
-      "tipe": "Samsung Fold",
-      "harga": "Rp. 15.000.000",
-      "hargaAsli": "Rp. 31.200.000",
-      "internal": "512 GB",
-      "ram": "12 GB",
-      "batre": "4380 mAh Dual Battery",
-      "foto": "https://i.imgur.com/1Ndfzll.jpg"
-    },
+
     {
       "brand": "Samsung",
       "tipe": "Samsung S20",
-      "harga": "Rp. 6.300.000",
+      "harga": "Rp. 6.000.000",
       "hargaAsli": "Rp. 13.000.000",
       "internal": "128 GB",
       "ram": "8 GB / 12 GB",
@@ -43,7 +34,7 @@
     {
       "brand": "Samsung",
       "tipe": "Samsung S20 Ultra (READY STOK 20 UNIT)",
-      "harga": "Rp. 9.000.000",
+      "harga": "Rp. 7.500.000",
       "hargaAsli": "Rp. 18.500.000",
       "internal": "128 GB / 256 GB / 512 GB",
       "ram": "12 GB / 16 GB",
@@ -53,7 +44,7 @@
     {
       "brand": "Oppo",
       "tipe": "Oppo A7",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 2.500.000",
       "internal": "32 GB / 64 GB",
       "ram": "3 GB / 4 GB",
@@ -73,7 +64,7 @@
     {
       "brand": "Vivo",
       "tipe": "Vivo V17 Pro",
-      "harga": "Rp. 2.800.000",
+      "harga": "Rp. 2.500.000",
       "hargaAsli": "Rp. 4.500.000",
       "internal": "128 GB",
       "ram": "8 GB",
@@ -83,7 +74,7 @@
     {
       "brand": "Samsung",
       "tipe": "Samsung Note 10 Lite",
-      "harga": "Rp. 5.200.000",
+      "harga": "Rp. 6.200.000",
       "hargaAsli": "Rp. 8.200.000",
       "internal": "128 GB",
       "ram": "6 GB / 8 GB",
@@ -103,7 +94,7 @@
     {
       "brand": "Samsung",
       "tipe": "Samsung J6 Plus",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 2.000.000",
       "internal": "64 GB",
       "ram": "4 GB",
@@ -113,7 +104,7 @@
     {
       "brand": "Samsung",
       "tipe": "Samsung M10",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 1.600.000",
       "internal": "64 GB / 32 GB",
       "ram": "2 GB/ 3 GB",
@@ -123,7 +114,7 @@
     {
       "brand": "Samsung",
       "tipe": "Samsung M20",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 2.000.000",
       "internal": "32 GB / 64 GB",
       "ram": "3 GB / 4 GB",
@@ -133,7 +124,7 @@
     {
       "brand": "Samsung",
       "tipe": "Samsung A10s",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 1.700.000",
       "internal": "32 GB / 64 GB",
       "ram": "2 GB / 4 GB",
@@ -143,7 +134,7 @@
     {
       "brand": "Samsung",
       "tipe": "Samsung A20s",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 2.300.000",
       "internal": "32 GB / 64 GB",
       "ram": "3 GB / 4 GB",
@@ -153,7 +144,7 @@
     {
       "brand": "Samsung",
       "tipe": "Samsung A6 Plus",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 2.400.000",
       "internal": "32 GB",
       "ram": "4 GB",
@@ -163,7 +154,7 @@
     {
       "brand": "Samsung",
       "tipe": "Samsung Tab 3v",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 1.700.000",
       "internal": "8 GB",
       "ram": "1 GB",
@@ -173,7 +164,7 @@
     {
       "brand": "Samsung",
       "tipe": "Samsung Tab A8",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 1.840.000",
       "internal": "32 GB",
       "ram": "2 GB",
@@ -183,7 +174,7 @@
     {
       "brand": "Oppo",
       "tipe": "Oppo A1K",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 1.420.000",
       "internal": "32 GB",
       "ram": "2 GB",
@@ -193,7 +184,7 @@
     {
       "brand": "Oppo",
       "tipe": "Oppo A5S",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 1.750.000",
       "internal": "32 GB",
       "ram": "2 GB / 3 GB",
@@ -203,7 +194,7 @@
     {
       "brand": "Oppo",
       "tipe": "Oppo A5 2020",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 2.800.000",
       "internal": "64 GB / 128 GB",
       "ram": "3 GB / 4 GB",
@@ -213,7 +204,7 @@
     {
       "brand": "Oppo",
       "tipe": "Oppo A3S",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 1.700.000",
       "internal": "16 GB / 32 GB",
       "ram": "2 GB / 3 GB",
@@ -224,7 +215,7 @@
     {
       "brand": "Redmi",
       "tipe": "Redmi 6",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 1.400.000",
       "internal": "32 GB / 64 GB",
       "ram": "3 GB / 4 GB",
@@ -234,7 +225,7 @@
     {
       "brand": "Redmi",
       "tipe": "Redmi 7",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 1.700.000",
       "internal": "16 GB / 32 GB / 64 GB",
       "ram": "2 GB / 3 GB / 4 GB",
@@ -244,7 +235,7 @@
     {
       "brand": "Redmi",
       "tipe": "Redmi Note 7",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 2.000.000",
       "internal": "32 GB / 64 GB / 128 GB",
       "ram": "3 GB / 4 GB / 6 GB",
@@ -254,7 +245,7 @@
     {
       "brand": "Redmi",
       "tipe": "Redmi Note 8",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 2.000.000",
       "internal": "32 GB / 64 GB / 128 GB",
       "ram": "3 GB / 4 GB / 6 GB",
@@ -264,7 +255,7 @@
     {
       "brand": "Vivo",
       "tipe": "Vivo Y91C",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 1.200.000",
       "internal": "32 GB",
       "ram": "2 GB",
@@ -274,7 +265,7 @@
     {
       "brand": "Vivo",
       "tipe": "Vivo Y12",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 1.640.000",
       "internal": "32 GB / 64 GB",
       "ram": "3 GB",
@@ -284,7 +275,7 @@
     {
       "brand": "Vivo",
       "tipe": "Vivo Y15",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 2.000.000",
       "internal": "64 GB",
       "ram": "3 GB / 4 GB",
@@ -294,7 +285,7 @@
     {
       "brand": "Vivo",
       "tipe": "Vivo Y17",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 2.300.000",
       "internal": "128 GB",
       "ram": "4 GB",
@@ -304,7 +295,7 @@
     {
       "brand": "Vivo",
       "tipe": "Vivo Y19",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 2.700.000",
       "internal": "128 GB",
       "ram": "6 GB",
@@ -314,7 +305,7 @@
     {
       "brand": "Realme",
       "tipe": "Realme C2",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 1.400.000",
       "internal": "16 GB / 32 GB",
       "ram": "2 GB / 3 GB",
@@ -324,7 +315,7 @@
     {
       "brand": "Realme",
       "tipe": "Realme 2 Pro",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 3.700.000",
       "internal": "64 GB / 128 GB",
       "ram": "4 GB / 6 GB / 8 GB",
@@ -334,7 +325,7 @@
     {
       "brand": "Realme",
       "tipe": "Realme 5",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 2.500.000",
       "internal": "32 GB / 64 GB / 128 GB",
       "ram": "3 GB / 4 GB",
@@ -344,7 +335,7 @@
     {
       "brand": "Nokia",
       "tipe": "Nokia N5",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 1.500.000",
       "internal": "16 GB",
       "ram": "2 GB / 3 GB",
@@ -354,7 +345,7 @@
     {
       "brand": "Nokia",
       "tipe": "Nokia N6",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 2.000.000",
       "internal": "32 GB / 64 GB",
       "ram": "3 GB / 4 GB",
@@ -364,7 +355,7 @@
     {
       "brand": "Asus",
       "tipe": "Asus Max M2",
-      "harga": "Rp. 1.200.000",
+      "harga": "Rp. 1.400.000",
       "hargaAsli": "Rp. 1.700.000",
       "internal": "32 GB / 64 GB",
       "ram": "3 GB / 4 GB",
@@ -485,7 +476,7 @@
     {
       "brand": "Samsung",
       "tipe": "Samsung A70",
-      "harga": "Rp. 2.800.000",
+      "harga": "Rp. 2.500.000",
       "hargaAsli": "Rp. 4.000.000",
       "internal": "128 GB",
       "ram": "6 GB / 8 GB",
@@ -495,7 +486,7 @@
     {
       "brand": "Samsung",
       "tipe": "Samsung S8 Plus",
-      "harga": "Rp. 2.800.000",
+      "harga": "Rp. 2.500.000",
       "hargaAsli": "Rp. 6.600.000",
       "internal": "64 GB / 128 GB",
       "ram": "4 GB / 6 GB",
@@ -505,7 +496,7 @@
     {
       "brand": "Oppo",
       "tipe": "Oppo A9 2020",
-      "harga": "Rp. 2.800.000",
+      "harga": "Rp. 2.500.000",
       "hargaAsli": "Rp. 3.300.000",
       "internal": "128 GB",
       "ram": "8 GB",
@@ -515,7 +506,7 @@
     {
       "brand": "Oppo",
       "tipe": "Oppo F11 Pro",
-      "harga": "Rp. 2.800.000",
+      "harga": "Rp. 2.500.000",
       "hargaAsli": "Rp. 4.200.000",
       "internal": "64 GB / 128 GB",
       "ram": "6 GB",
@@ -525,7 +516,7 @@
     {
       "brand": "Oppo",
       "tipe": "Oppo Reno 2F",
-      "harga": "Rp. 2.800.000",
+      "harga": "Rp. 2.500.000",
       "hargaAsli": "Rp. 7.000.000",
       "internal": "128 GB / 256 GB",
       "ram": "8 GB",
@@ -535,7 +526,7 @@
     {
       "brand": "Realme",
       "tipe": "Realme XT",
-      "harga": "Rp. 2.800.000",
+      "harga": "Rp. 2.500.000",
       "hargaAsli": "Rp. 3.200.000",
       "internal": "64 GB / 128 GB",
       "ram": "4 GB / 6 GB / 8 GB",
@@ -545,7 +536,7 @@
     {
       "brand": "Vivo",
       "tipe": "Vivo V15 Pro",
-      "harga": "Rp. 2.800.000",
+      "harga": "Rp. 2.500.000",
       "hargaAsli": "Rp. 3.800.000",
       "internal": "128 GB",
       "ram": "6 GB",
@@ -556,7 +547,7 @@
     {
       "brand": "Redmi",
       "tipe": "Xiaomi Pocophone F1",
-      "harga": "Rp. 2.800.000",
+      "harga": "Rp. 2.500.000",
       "hargaAsli": "Rp. 4.000.000",
       "internal": "64 GB / 128 GB / 256 GB",
       "ram": "8 GB / 6 GB",
@@ -566,7 +557,7 @@
     {
       "brand": "Samsung",
       "tipe": "Samsung A71",
-      "harga": "Rp. 3.300.000",
+      "harga": "Rp. 3.100.000",
       "hargaAsli": "Rp. 6.000.000",
       "internal": "128 GB",
       "ram": "6 GB / 8 GB",
@@ -676,7 +667,7 @@
     {
       "brand": "Samsung",
       "tipe": "Samsung S10",
-      "harga": "Rp. 4.600.000",
+      "harga": "Rp. 5.000.000",
       "hargaAsli": "Rp. 9.800.000",
       "internal": "128 GB / 512 GB",
       "ram": "8 GB",
@@ -686,7 +677,7 @@
     {
       "brand": "Samsung",
       "tipe": "Samsung Note 9",
-      "harga": "Rp. 4.600.000",
+      "harga": "Rp. 5.000.000",
       "hargaAsli": "Rp. 11.200.000",
       "internal": "128 GB / 512 GB",
       "ram": "6 GB / 8 GB",
@@ -696,7 +687,7 @@
     {
       "brand": "Samsung",
       "tipe": "Samsung Tab S6",
-      "harga": "Rp. 4.600.000",
+      "harga": "Rp. 5.000.000",
       "hargaAsli": "Rp. 10.900.000",
       "internal": "128 GB / 256 GB",
       "ram": "6 GB / 8 GB",
@@ -706,7 +697,7 @@
     {
       "brand": "Asus",
       "tipe": "Asus ROG Phone 2",
-      "harga": "Rp. 4.600.000",
+      "harga": "Rp. 5.000.000",
       "hargaAsli": "Rp. 8.500.000",
       "internal": "128 GB / 512 GB / 1 TB",
       "ram": "8 GB / 12 GB",
@@ -716,7 +707,7 @@
     {
       "brand": "Samsung",
       "tipe": "Samsung S10 Plus",
-      "harga": "Rp. 5.200.000",
+      "harga": "Rp. 6.200.000",
       "hargaAsli": "Rp. 11.000.000",
       "internal": "128 GB / 512 GB / 1 TB",
       "ram": "6 GB / 8 GB / 12 GB",
@@ -726,7 +717,7 @@
     {
       "brand": "Redmi",
       "tipe": "Redmi Black Shark 2 Pro",
-      "harga": "Rp. 5.200.000",
+      "harga": "Rp. 6.200.000",
       "hargaAsli": "Rp. 9.000.000",
       "internal": "128 GB / 256 GB",
       "ram": "8 GB / 12 GB",
@@ -736,7 +727,7 @@
     {
       "brand": "Oppo",
       "tipe": "Oppo Reno 10x Zoom",
-      "harga": "Rp. 5.200.000",
+      "harga": "Rp. 6.200.000",
       "hargaAsli": "Rp. 10.500.000",
       "internal": "128 GB / 256 GB",
       "ram": "6 GB / 8 GB",
@@ -747,7 +738,7 @@
     {
       "brand": "Iphone",
       "tipe": "Iphone 11",
-      "harga": "Rp. 7.500.000",
+      "harga": "Rp. 6.500.000",
       "hargaAsli": "Rp. 15.500.000",
       "internal": "64 GB / 128 GB / 256 GB",
       "ram": "Apa itu RAM? (4 GB)",
@@ -757,7 +748,7 @@
     {
       "brand": "Iphone",
       "tipe": "Iphone XR",
-      "harga": "Rp. 7.500.000",
+      "harga": "Rp. 6.500.000",
       "hargaAsli": "Rp. 13.500.000",
       "internal": "64 GB / 128 GB / 256 GB",
       "ram": "3 GB",
@@ -767,7 +758,7 @@
     {
       "brand": "Iphone",
       "tipe": "Iphone XS",
-      "harga": "Rp. 7.500.000",
+      "harga": "Rp. 6.500.000",
       "hargaAsli": "Rp. 13.500.000",
       "internal": "64 GB / 256 GB / 512 GB",
       "ram": "4 GB",
@@ -777,7 +768,7 @@
     {
       "brand": "Iphone",
       "tipe": "Iphone XS Max",
-      "harga": "Rp. 7.500.000",
+      "harga": "Rp. 6.500.000",
       "hargaAsli": "Rp. 13.000.000",
       "internal": "64 GB / 256 GB / 512 GB",
       "ram": "4 GB",
@@ -797,7 +788,7 @@
     {
       "brand": "Iphone",
       "tipe": "Iphone 11 Pro Max",
-      "harga": "Rp. 11.000.000",
+      "harga": "Rp. 9.500.000",
       "hargaAsli": "Rp. 20.500.000",
       "internal": "64 GB / 256 GB / 512 GB",
       "ram": "4 GB",
@@ -809,7 +800,7 @@
     {
       "brand": "Macbook",
       "tipe": "Macbook Pro 2019 MUHN2",
-      "harga": "Rp. 11.000.000",
+      "harga": "Rp. 11.200.000",
       "hargaAsli": "Rp. 18.000.000",
       "internal": "128 GB",
       "ram": "8 GB",
