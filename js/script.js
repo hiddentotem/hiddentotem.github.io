@@ -83,8 +83,6 @@ $('#keyword').on("keyup", function () {
         $('.brand-tag').html('All Brand');
 
         tampilkanSemuaMenu();
-
-
         return;
     }
 
@@ -108,7 +106,7 @@ $('#keyword').on("keyup", function () {
         $.each(macbook, function (i, data) {
 
             // Jika smartphone kategorinya == kategori yang di klik
-            if ((data.tipe.search(regex) != -1) || (data.harga.search(regex) != -1) || (data.ram.search(regex) != -1) || (data.internal.search(regex) != -1) || (data.layar.search(regex) != -1)) {
+            if ((data.tipe.search(regex) != -1) || (data.harga.search(regex) != -1)) {
                 // maka contentnya akan berisi smartphone berdasarkan kategorinya aja
                 content += '<div class="col-md-4"><div class="card mb-3"><img src="' + data.foto + '" class="img-thumbnail"><div class="card-body"><h5 class="card-title text-truncate">' + data.tipe + '</h5><h6 class="card-title">' + data.harga + ',-</h6><p class="card-text">Harga asli <strike class="text-danger">' + data.hargaAsli + ',-</strike></p><a href="#" class="btn btn-primary tombolDetail" data-tipe="' + data.tipe + '" data-toggle="modal" data-target="#exampleModal">Detail</a></div></div></div>';
             }
